@@ -1,0 +1,14 @@
+{
+    "total_calories_kcal_estimate": 240,
+    "note": "Calorie values are approximate. Actual values vary with portion size, ingredients, and preparation. This food log is for general information and is not medical advice.",
+    "logged_meals": [
+        {
+            "item": "wine",
+            "emoji": "🍴",
+            "servings": 2,
+            "calories_kcal_estimate": 240,
+            "serving_description": "one typical serving (AI estimate)",
+            "estimate_source": "AI estimate"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+  "roti": {
+    "calories": 100,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium roti"
+  },
+  "chapati": {
+    "calories": 100,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium chapati"
+  },
+  "paratha": {
+    "calories": 210,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium paratha"
+  },
+  "white rice": {
+    "calories": 200,
+    "emoji": "🍚",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "brown rice": {
+    "calories": 215,
+    "emoji": "🍚",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "idli": {
+    "calories": 60,
+    "emoji": "⚪",
+    "category": "breakfast",
+    "serving": "1 idli"
+  },
+  "masala dosa": {
+    "calories": 250,
+    "emoji": "🥞",
+    "category": "breakfast",
+    "serving": "1 medium dosa"
+  },
+  "poha": {
+    "calories": 180,
+    "emoji": "🍲",
+    "category": "breakfast",
+    "serving": "1 bowl"
+  },
+  "upma": {
+    "calories": 195,
+    "emoji": "🍲",
+    "category": "breakfast",
+    "serving": "1 bowl"
+  },
+  "boiled egg": {
+    "calories": 75,
+    "emoji": "🥚",
+    "category": "protein",
+    "serving": "1 large egg"
+  },
+  "dal tadka": {
+    "calories": 160,
+    "emoji": "🍲",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "rajma": {
+    "calories": 210,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "chole": {
+    "calories": 240,
+    "emoji": "🍲",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "paneer": {
+    "calories": 265,
+    "emoji": "🧀",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "chicken curry": {
+    "calories": 260,
+    "emoji": "🍗",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "aloo gobi": {
+    "calories": 150,
+    "emoji": "🥦",
+    "category": "vegetables",
+    "serving": "1 bowl"
+  },
+  "green salad": {
+    "calories": 45,
+    "emoji": "🥗",
+    "category": "vegetables",
+    "serving": "1 bowl"
+  },
+  "cucumber": {
+    "calories": 15,
+    "emoji": "🥒",
+    "category": "vegetables",
+    "serving": "100 g"
+  },
+  "apple": {
+    "calories": 95,
+    "emoji": "🍎",
+    "category": "fruits",
+    "serving": "1 medium apple"
+  },
+  "banana": {
+    "calories": 105,
+    "emoji": "🍌",
+    "category": "fruits",
+    "serving": "1 medium banana"
+  },
+  "orange": {
+    "calories": 62,
+    "emoji": "🍊",
+    "category": "fruits",
+    "serving": "1 medium orange"
+  },
+  "milk": {
+    "calories": 120,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "water": {
+    "calories": 0,
+    "emoji": "💧",
+    "category": "drinks",
+    "serving": "1 glass"
+  },
+  "lassi": {
+    "calories": 150,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 glass"
+  }
+}
