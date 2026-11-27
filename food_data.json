@@ -1,3 +1,1187 @@
+  {
+  "roti": {
+    "calories": 100,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium roti"
+  },
+  "chapati": {
+    "calories": 100,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium chapati"
+  },
+  "paratha": {
+    "calories": 210,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium paratha"
+  },
+  "naan": {
+    "calories": 260,
+    "emoji": "🫓",
+    "category": "grains",
+    "serving": "1 medium naan"
+  },
+  "pita bread": {
+    "calories": 165,
+    "emoji": "🥙",
+    "category": "grains",
+    "serving": "1 medium pita"
+  },
+  "whole wheat bread": {
+    "calories": 80,
+    "emoji": "🍞",
+    "category": "grains",
+    "serving": "1 slice"
+  },
+  "white bread": {
+    "calories": 75,
+    "emoji": "🍞",
+    "category": "grains",
+    "serving": "1 slice"
+  },
+  "sourdough bread": {
+    "calories": 90,
+    "emoji": "🍞",
+    "category": "grains",
+    "serving": "1 slice"
+  },
+  "bagel": {
+    "calories": 270,
+    "emoji": "🥯",
+    "category": "grains",
+    "serving": "1 medium bagel"
+  },
+  "croissant": {
+    "calories": 230,
+    "emoji": "🥐",
+    "category": "grains",
+    "serving": "1 medium croissant"
+  },
+  "tortilla": {
+    "calories": 140,
+    "emoji": "🌮",
+    "category": "grains",
+    "serving": "1 medium tortilla"
+  },
+  "corn tortilla": {
+    "calories": 60,
+    "emoji": "🌮",
+    "category": "grains",
+    "serving": "1 small tortilla"
+  },
+  "white rice": {
+    "calories": 200,
+    "emoji": "🍚",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "brown rice": {
+    "calories": 215,
+    "emoji": "🍚",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "basmati rice": {
+    "calories": 205,
+    "emoji": "🍚",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "quinoa": {
+    "calories": 222,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "oats": {
+    "calories": 150,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "barley": {
+    "calories": 193,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "couscous": {
+    "calories": 176,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "millet": {
+    "calories": 207,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "ragi porridge": {
+    "calories": 150,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 bowl"
+  },
+  "cornmeal polenta": {
+    "calories": 145,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "pasta": {
+    "calories": 220,
+    "emoji": "🍝",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "whole wheat pasta": {
+    "calories": 174,
+    "emoji": "🍝",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "noodles": {
+    "calories": 220,
+    "emoji": "🍜",
+    "category": "grains",
+    "serving": "1 cup cooked"
+  },
+  "macaroni and cheese": {
+    "calories": 310,
+    "emoji": "🧀",
+    "category": "grains",
+    "serving": "1 cup"
+  },
+  "pancake": {
+    "calories": 175,
+    "emoji": "🥞",
+    "category": "grains",
+    "serving": "1 medium pancake"
+  },
+  "waffle": {
+    "calories": 220,
+    "emoji": "🧇",
+    "category": "grains",
+    "serving": "1 medium waffle"
+  },
+  "cereal": {
+    "calories": 120,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup"
+  },
+  "granola": {
+    "calories": 200,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1/2 cup"
+  },
+  "cornflakes": {
+    "calories": 110,
+    "emoji": "🥣",
+    "category": "grains",
+    "serving": "1 cup"
+  },
+  "popcorn": {
+    "calories": 31,
+    "emoji": "🍿",
+    "category": "grains",
+    "serving": "1 cup air-popped"
+  },
+  "idli": {
+    "calories": 60,
+    "emoji": "⚪",
+    "category": "indian_meals",
+    "serving": "1 idli"
+  },
+  "masala dosa": {
+    "calories": 250,
+    "emoji": "🥞",
+    "category": "indian_meals",
+    "serving": "1 medium dosa"
+  },
+  "plain dosa": {
+    "calories": 168,
+    "emoji": "🥞",
+    "category": "indian_meals",
+    "serving": "1 medium dosa"
+  },
+  "poha": {
+    "calories": 180,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "upma": {
+    "calories": 195,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "uttapam": {
+    "calories": 180,
+    "emoji": "🥞",
+    "category": "indian_meals",
+    "serving": "1 medium uttapam"
+  },
+  "medu vada": {
+    "calories": 135,
+    "emoji": "🍩",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "appam": {
+    "calories": 120,
+    "emoji": "🥞",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "puttu": {
+    "calories": 180,
+    "emoji": "🍚",
+    "category": "indian_meals",
+    "serving": "1 serving"
+  },
+  "dhokla": {
+    "calories": 160,
+    "emoji": "🟨",
+    "category": "indian_meals",
+    "serving": "1 serving"
+  },
+  "thepla": {
+    "calories": 120,
+    "emoji": "🫓",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "puri": {
+    "calories": 100,
+    "emoji": "🫓",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "bhatura": {
+    "calories": 300,
+    "emoji": "🫓",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "khichdi": {
+    "calories": 220,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "vegetable biryani": {
+    "calories": 290,
+    "emoji": "🍛",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "chicken biryani": {
+    "calories": 350,
+    "emoji": "🍛",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "pulao": {
+    "calories": 250,
+    "emoji": "🍚",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "sambar": {
+    "calories": 120,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "rasam": {
+    "calories": 50,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "curd rice": {
+    "calories": 250,
+    "emoji": "🍚",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "pav bhaji": {
+    "calories": 400,
+    "emoji": "🍞",
+    "category": "indian_meals",
+    "serving": "1 plate"
+  },
+  "vada pav": {
+    "calories": 290,
+    "emoji": "🍔",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "misal pav": {
+    "calories": 350,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 serving"
+  },
+  "vegetable pulao": {
+    "calories": 240,
+    "emoji": "🍚",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "dal makhani": {
+    "calories": 230,
+    "emoji": "🍲",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "dal tadka": {
+    "calories": 160,
+    "emoji": "🍲",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "rajma": {
+    "calories": 210,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "chole": {
+    "calories": 240,
+    "emoji": "🍲",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "paneer butter masala": {
+    "calories": 330,
+    "emoji": "🧀",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "palak paneer": {
+    "calories": 280,
+    "emoji": "🧀",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "shahi paneer": {
+    "calories": 350,
+    "emoji": "🧀",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "aloo gobi": {
+    "calories": 150,
+    "emoji": "🥦",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "baingan bharta": {
+    "calories": 140,
+    "emoji": "🍆",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "bhindi masala": {
+    "calories": 160,
+    "emoji": "🥬",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "matar paneer": {
+    "calories": 270,
+    "emoji": "🧀",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "chicken curry": {
+    "calories": 260,
+    "emoji": "🍗",
+    "category": "protein",
+    "serving": "1 bowl"
+  },
+  "butter chicken": {
+    "calories": 400,
+    "emoji": "🍗",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "fish curry": {
+    "calories": 220,
+    "emoji": "🐟",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "mutton curry": {
+    "calories": 330,
+    "emoji": "🍖",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "egg curry": {
+    "calories": 220,
+    "emoji": "🥚",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "vegetable korma": {
+    "calories": 250,
+    "emoji": "🥘",
+    "category": "indian_meals",
+    "serving": "1 bowl"
+  },
+  "samosa": {
+    "calories": 260,
+    "emoji": "🥟",
+    "category": "indian_meals",
+    "serving": "1 medium piece"
+  },
+  "pakora": {
+    "calories": 180,
+    "emoji": "🍘",
+    "category": "indian_meals",
+    "serving": "1 serving"
+  },
+  "kachori": {
+    "calories": 200,
+    "emoji": "🥟",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "gulab jamun": {
+    "calories": 150,
+    "emoji": "🍩",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "jalebi": {
+    "calories": 150,
+    "emoji": "🍥",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "rasgulla": {
+    "calories": 120,
+    "emoji": "⚪",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "kheer": {
+    "calories": 220,
+    "emoji": "🍮",
+    "category": "indian_meals",
+    "serving": "1 cup"
+  },
+  "kulfi": {
+    "calories": 200,
+    "emoji": "🍦",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "roshogolla": {
+    "calories": 120,
+    "emoji": "⚪",
+    "category": "indian_meals",
+    "serving": "1 piece"
+  },
+  "boiled egg": {
+    "calories": 75,
+    "emoji": "🥚",
+    "category": "protein",
+    "serving": "1 large egg"
+  },
+  "scrambled eggs": {
+    "calories": 180,
+    "emoji": "🍳",
+    "category": "protein",
+    "serving": "2 eggs"
+  },
+  "omelette": {
+    "calories": 190,
+    "emoji": "🍳",
+    "category": "protein",
+    "serving": "2-egg omelette"
+  },
+  "egg white": {
+    "calories": 17,
+    "emoji": "🥚",
+    "category": "protein",
+    "serving": "1 large egg white"
+  },
+  "tofu": {
+    "calories": 145,
+    "emoji": "◻️",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "tempeh": {
+    "calories": 195,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "paneer": {
+    "calories": 265,
+    "emoji": "🧀",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "chicken breast": {
+    "calories": 165,
+    "emoji": "🍗",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "chicken thigh": {
+    "calories": 209,
+    "emoji": "🍗",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "turkey breast": {
+    "calories": 135,
+    "emoji": "🍗",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "beef steak": {
+    "calories": 250,
+    "emoji": "🥩",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "pork chop": {
+    "calories": 231,
+    "emoji": "🥩",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "lamb": {
+    "calories": 294,
+    "emoji": "🍖",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "salmon": {
+    "calories": 206,
+    "emoji": "🐟",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "tuna": {
+    "calories": 132,
+    "emoji": "🐟",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "sardines": {
+    "calories": 208,
+    "emoji": "🐟",
+    "category": "protein",
+    "serving": "100 g"
+  },
+  "shrimp": {
+    "calories": 99,
+    "emoji": "🍤",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "cod": {
+    "calories": 105,
+    "emoji": "🐟",
+    "category": "protein",
+    "serving": "100 g cooked"
+  },
+  "lentils": {
+    "calories": 230,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 cup cooked"
+  },
+  "chickpeas": {
+    "calories": 269,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 cup cooked"
+  },
+  "black beans": {
+    "calories": 227,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 cup cooked"
+  },
+  "kidney beans": {
+    "calories": 225,
+    "emoji": "🫘",
+    "category": "protein",
+    "serving": "1 cup cooked"
+  },
+  "green peas": {
+    "calories": 134,
+    "emoji": "🫛",
+    "category": "protein",
+    "serving": "1 cup cooked"
+  },
+  "edamame": {
+    "calories": 188,
+    "emoji": "🫛",
+    "category": "protein",
+    "serving": "1 cup"
+  },
+  "peanut butter": {
+    "calories": 95,
+    "emoji": "🥜",
+    "category": "protein",
+    "serving": "1 tablespoon"
+  },
+  "almonds": {
+    "calories": 164,
+    "emoji": "🥜",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "walnuts": {
+    "calories": 185,
+    "emoji": "🥜",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "cashews": {
+    "calories": 157,
+    "emoji": "🥜",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "pistachios": {
+    "calories": 159,
+    "emoji": "🥜",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "chia seeds": {
+    "calories": 138,
+    "emoji": "🌱",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "pumpkin seeds": {
+    "calories": 160,
+    "emoji": "🌱",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "sunflower seeds": {
+    "calories": 165,
+    "emoji": "🌻",
+    "category": "protein",
+    "serving": "28 g"
+  },
+  "green salad": {
+    "calories": 45,
+    "emoji": "🥗",
+    "category": "vegetables",
+    "serving": "1 bowl"
+  },
+  "cucumber": {
+    "calories": 15,
+    "emoji": "🥒",
+    "category": "vegetables",
+    "serving": "100 g"
+  },
+  "tomato": {
+    "calories": 22,
+    "emoji": "🍅",
+    "category": "vegetables",
+    "serving": "1 medium"
+  },
+  "carrot": {
+    "calories": 25,
+    "emoji": "🥕",
+    "category": "vegetables",
+    "serving": "1 medium"
+  },
+  "broccoli": {
+    "calories": 55,
+    "emoji": "🥦",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "cauliflower": {
+    "calories": 28,
+    "emoji": "🥦",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "spinach": {
+    "calories": 41,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "kale": {
+    "calories": 33,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup raw"
+  },
+  "lettuce": {
+    "calories": 10,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "2 cups"
+  },
+  "cabbage": {
+    "calories": 22,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "potato": {
+    "calories": 160,
+    "emoji": "🥔",
+    "category": "vegetables",
+    "serving": "1 medium baked"
+  },
+  "sweet potato": {
+    "calories": 112,
+    "emoji": "🍠",
+    "category": "vegetables",
+    "serving": "1 medium"
+  },
+  "onion": {
+    "calories": 44,
+    "emoji": "🧅",
+    "category": "vegetables",
+    "serving": "1 medium"
+  },
+  "bell pepper": {
+    "calories": 30,
+    "emoji": "🫑",
+    "category": "vegetables",
+    "serving": "1 medium"
+  },
+  "mushroom": {
+    "calories": 15,
+    "emoji": "🍄",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "zucchini": {
+    "calories": 20,
+    "emoji": "🥒",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "eggplant": {
+    "calories": 35,
+    "emoji": "🍆",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "green beans": {
+    "calories": 44,
+    "emoji": "🫛",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "asparagus": {
+    "calories": 27,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "beetroot": {
+    "calories": 58,
+    "emoji": "🫜",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "okra": {
+    "calories": 33,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "pumpkin": {
+    "calories": 49,
+    "emoji": "🎃",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "corn": {
+    "calories": 143,
+    "emoji": "🌽",
+    "category": "vegetables",
+    "serving": "1 cup"
+  },
+  "peas": {
+    "calories": 134,
+    "emoji": "🫛",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "brussels sprouts": {
+    "calories": 56,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 cup cooked"
+  },
+  "celery": {
+    "calories": 10,
+    "emoji": "🥬",
+    "category": "vegetables",
+    "serving": "1 stalk"
+  },
+  "apple": {
+    "calories": 95,
+    "emoji": "🍎",
+    "category": "fruits",
+    "serving": "1 medium apple"
+  },
+  "banana": {
+    "calories": 105,
+    "emoji": "🍌",
+    "category": "fruits",
+    "serving": "1 medium banana"
+  },
+  "orange": {
+    "calories": 62,
+    "emoji": "🍊",
+    "category": "fruits",
+    "serving": "1 medium orange"
+  },
+  "mango": {
+    "calories": 135,
+    "emoji": "🥭",
+    "category": "fruits",
+    "serving": "1 medium mango"
+  },
+  "grapes": {
+    "calories": 104,
+    "emoji": "🍇",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "strawberries": {
+    "calories": 49,
+    "emoji": "🍓",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "blueberries": {
+    "calories": 84,
+    "emoji": "🫐",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "raspberries": {
+    "calories": 64,
+    "emoji": "🍓",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "pineapple": {
+    "calories": 82,
+    "emoji": "🍍",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "watermelon": {
+    "calories": 46,
+    "emoji": "🍉",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "papaya": {
+    "calories": 62,
+    "emoji": "🍈",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "guava": {
+    "calories": 68,
+    "emoji": "🍐",
+    "category": "fruits",
+    "serving": "1 medium"
+  },
+  "pomegranate": {
+    "calories": 144,
+    "emoji": "🍎",
+    "category": "fruits",
+    "serving": "1 cup seeds"
+  },
+  "pear": {
+    "calories": 101,
+    "emoji": "🍐",
+    "category": "fruits",
+    "serving": "1 medium"
+  },
+  "peach": {
+    "calories": 59,
+    "emoji": "🍑",
+    "category": "fruits",
+    "serving": "1 medium"
+  },
+  "kiwi": {
+    "calories": 42,
+    "emoji": "🥝",
+    "category": "fruits",
+    "serving": "1 medium"
+  },
+  "avocado": {
+    "calories": 240,
+    "emoji": "🥑",
+    "category": "fruits",
+    "serving": "1 medium"
+  },
+  "cherries": {
+    "calories": 87,
+    "emoji": "🍒",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "dates": {
+    "calories": 66,
+    "emoji": "🌴",
+    "category": "fruits",
+    "serving": "2 dates"
+  },
+  "coconut meat": {
+    "calories": 283,
+    "emoji": "🥥",
+    "category": "fruits",
+    "serving": "1 cup"
+  },
+  "milk": {
+    "calories": 120,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "skim milk": {
+    "calories": 83,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "soy milk": {
+    "calories": 80,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "almond milk": {
+    "calories": 40,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "oat milk": {
+    "calories": 120,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "yogurt": {
+    "calories": 150,
+    "emoji": "🥣",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "greek yogurt": {
+    "calories": 130,
+    "emoji": "🥣",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "buttermilk": {
+    "calories": 60,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "lassi": {
+    "calories": 150,
+    "emoji": "🥛",
+    "category": "drinks",
+    "serving": "1 glass"
+  },
+  "water": {
+    "calories": 0,
+    "emoji": "💧",
+    "category": "drinks",
+    "serving": "1 glass"
+  },
+  "orange juice": {
+    "calories": 112,
+    "emoji": "🧃",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "apple juice": {
+    "calories": 114,
+    "emoji": "🧃",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "coconut water": {
+    "calories": 46,
+    "emoji": "🥥",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "lemonade": {
+    "calories": 100,
+    "emoji": "🍋",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "black coffee": {
+    "calories": 2,
+    "emoji": "☕",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "coffee with milk": {
+    "calories": 50,
+    "emoji": "☕",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "green tea": {
+    "calories": 2,
+    "emoji": "🍵",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "black tea": {
+    "calories": 2,
+    "emoji": "🍵",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "hot chocolate": {
+    "calories": 190,
+    "emoji": "☕",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "smoothie": {
+    "calories": 180,
+    "emoji": "🥤",
+    "category": "drinks",
+    "serving": "1 cup"
+  },
+  "dark chocolate": {
+    "calories": 170,
+    "emoji": "🍫",
+    "category": "snacks",
+    "serving": "30 g"
+  },
+  "milk chocolate": {
+    "calories": 160,
+    "emoji": "🍫",
+    "category": "snacks",
+    "serving": "30 g"
+  },
+  "potato chips": {
+    "calories": 152,
+    "emoji": "🥔",
+    "category": "snacks",
+    "serving": "28 g"
+  },
+  "french fries": {
+    "calories": 312,
+    "emoji": "🍟",
+    "category": "snacks",
+    "serving": "100 g"
+  },
+  "biscuit": {
+    "calories": 70,
+    "emoji": "🍪",
+    "category": "snacks",
+    "serving": "1 medium biscuit"
+  },
+  "cookie": {
+    "calories": 140,
+    "emoji": "🍪",
+    "category": "snacks",
+    "serving": "1 medium cookie"
+  },
+  "donut": {
+    "calories": 250,
+    "emoji": "🍩",
+    "category": "snacks",
+    "serving": "1 medium donut"
+  },
+  "muffin": {
+    "calories": 340,
+    "emoji": "🧁",
+    "category": "snacks",
+    "serving": "1 medium muffin"
+  },
+  "cheesecake": {
+    "calories": 320,
+    "emoji": "🍰",
+    "category": "snacks",
+    "serving": "1 slice"
+  },
+  "ice cream": {
+    "calories": 207,
+    "emoji": "🍨",
+    "category": "snacks",
+    "serving": "1/2 cup"
+  },
+  "yogurt parfait": {
+    "calories": 220,
+    "emoji": "🥣",
+    "category": "snacks",
+    "serving": "1 cup"
+  },
+  "hummus": {
+    "calories": 70,
+    "emoji": "🫘",
+    "category": "snacks",
+    "serving": "2 tablespoons"
+  },
+  "pretzels": {
+    "calories": 110,
+    "emoji": "🥨",
+    "category": "snacks",
+    "serving": "28 g"
+  },
+  "trail mix": {
+    "calories": 170,
+    "emoji": "🥜",
+    "category": "snacks",
+    "serving": "28 g"
+  },
+  "granola bar": {
+    "calories": 120,
+    "emoji": "🍫",
+    "category": "snacks",
+    "serving": "1 bar"
+  },
+  "rice cakes": {
+    "calories": 70,
+    "emoji": "🍘",
+    "category": "snacks",
+    "serving": "2 cakes"
+  },
+  "pizza margherita": {
+    "calories": 285,
+    "emoji": "🍕",
+    "category": "global_meals",
+    "serving": "1 slice"
+  },
+  "pepperoni pizza": {
     "calories": 310,
     "emoji": "🍕",
     "category": "global_meals",
